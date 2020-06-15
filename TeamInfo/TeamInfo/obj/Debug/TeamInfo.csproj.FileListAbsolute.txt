@@ -1,0 +1,13 @@
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\bin\Debug\TeamInfo.exe.config
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\bin\Debug\TeamInfo.exe
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\bin\Debug\TeamInfo.pdb
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\obj\Debug\TeamInfo.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\obj\Debug\TeamInfo.exe
+C:\Users\Tyler\source\repos\TeamInfo\TeamInfo\obj\Debug\TeamInfo.pdb
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\bin\Debug\TeamInfo.exe.config
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\bin\Debug\TeamInfo.exe
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\bin\Debug\TeamInfo.pdb
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\obj\Debug\TeamInfo.csprojAssemblyReference.cache
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\obj\Debug\TeamInfo.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\obj\Debug\TeamInfo.exe
+C:\Users\ryanp\Desktop\Repositories\consoleTest\TeamInfo\TeamInfo\obj\Debug\TeamInfo.pdb

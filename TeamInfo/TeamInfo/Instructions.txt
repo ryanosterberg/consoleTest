@@ -1,0 +1,34 @@
+﻿Source Control Activity #4:  Team Info
+
+Team - Clone the TeamInfo repository.
+
+
+Part 1 - C# and no merge conflicts
+
+Team Members - One branch at a time.
+	1. Branch from dev
+	2. Add your name, what school you will attend next year, and the answer to the question “What is the worst gift you have received?”
+	3. Commit and push to the feature branch
+	4. Merge the feature branch into dev
+Reminder: Only one Pull Request at a time!!!
+	5. Fetch All
+	6. Merge dev into the feature branch
+	7. Handle the merge conflict 
+	8. Make a pull request to merge the feature branch into dev
+
+
+Part 2 - C# and merge conflicts
+
+Team Members- Everyone branches at the same time
+	1. Branch from dev
+	2. Add another answer to the question “What I want for graduation?” at some random point in the project.
+	3. Delete a part of another teammate’s code.
+	4. Commit and push the feature branch
+	5. Fetch All
+	6. Merge dev in the feature branch
+	7. Deal with merge conflicts - your choice in how to deal with the merge conflicts
+	8. Make a pull request to merge the feature branch into dev
+
+Team - Be sure to use proper source control techniques to manage pull requests
+
+Reminder:  Delete old branches that have been merged into dev.
